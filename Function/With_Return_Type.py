@@ -1,4 +1,5 @@
-#Return Type : Means we have to declare the one function and for calling this function we have store into these function in 1 object.
+#Return Type : Means we have to declare the one function and for calling this function
+# we have store into these function in 1 object.
 #Then we call this object in print Statement.
 from types import CodeType
 
@@ -30,11 +31,11 @@ print(S2)
 #Example 3
 print("______________________________#Example 3______________________________________")
 
-def mul(num1,num2):
-    num3=num1*num2
+def mul(num1,num2,num4):
+    num3=num1*num2*num4
     return num3
 
-S3=mul(10,5)
+S3=mul(10,5,6)
 print(S3)
 
 

@@ -7,6 +7,8 @@ def reverse_string(s):
         return reversed_str
 
 
+
+
 print(reverse_string("automation"))  # noitamotua
 
 print("_____________________________________________")

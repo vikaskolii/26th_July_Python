@@ -13,6 +13,7 @@ def mul(num1 , num2, num3):
 print("The Multiplication Is" )
 mul(10,5,2 )
 mul(110,55,20 )
+mul(1,5,12)
 
 print("__________________________________________________")
 

@@ -20,7 +20,7 @@ def EmpInfo(Id,Fn="Ram",Mob=8070909093):
     print("Emp Name::", Fn)
     print("Emp Contact::" , Mob)
 
-EmpInfo(1452,"Aditya")
+EmpInfo(1452)
 print("_________________________________")
 EmpInfo(121)
 
