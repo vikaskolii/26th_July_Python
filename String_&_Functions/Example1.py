@@ -1,3 +1,9 @@
+#A string in Python is just a piece of text.
+# It can be a word, a sentence, or even a whole paragraph.
+# You write it inside quotes, like this.
+
+
+
 s1="Automation"
 print(s1)               #Print string
 print("====================================================================================")
